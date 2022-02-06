@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amritanshu1912
-- 👀 I’m interested in software development, , building programming interfaces and shipping reliable applications. 
+- 👀 I’m interested in software development, building programming interfaces and shipping reliable applications. 
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me : @linkedin - www.linkedin.com/in/amritanshusingh1912 , @gmail - amritanshu.singh.mat15@itbhu.ac.in
 
