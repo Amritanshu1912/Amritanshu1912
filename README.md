@@ -1,4 +1,4 @@
-👋 Hi there! I'm @Amritanshu1912, a passionate software developer with expertise in building robust backend solutions and web services. With a focus on the Grand Stack architecture, I excel in creating powerful applications that leverage the best of Node.js, Express, GraphQL, Neo4j, Sequelize, PostgreSQL, and Docker.
+👋 Hi there! I'm @Amritanshu1912, a passionate software developer with expertise in building robust backend solutions and web services. With a focus on the Grand Stack architecture, I excel in creating powerful applications that leverage the best of Node.js, Express, GraphQL, Neo4j, PostgreSQL, and Docker.
 
 💻 My skills and experience include:
 
