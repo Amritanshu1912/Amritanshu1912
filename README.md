@@ -1,17 +1,72 @@
-👋 Hi there! I'm @Amritanshu1912, a passionate software developer with expertise in building robust backend solutions and web services. With a focus on the Grand Stack architecture, I excel in creating powerful applications that leverage the best of Node.js, Express, GraphQL, Neo4j, PostgreSQL, and Docker.
+# Hey, I'm Amritanshu 👋
 
-💻 My skills and experience include:
+Backend developer from Delhi, India. IIT BHU grad (Mathematics & Computing).
 
-- Building scalable backend architectures using Node.js and Express.
-- Designing and optimizing databases using PostgreSQL and Sequelize.
-- Leveraging GraphQL to create efficient and flexible APIs.
-- Ensuring high code quality through testing, code reviews, and continuous integration.
-- Utilizing Docker to containerize and deploy applications with ease.
-- Proficient in version control using Git and managing repositories on GitHub.
+I spent a year building production backend systems at a startup —
+GraphQL APIs, Neo4j, PostgreSQL, AWS pipelines. Then took time off,
+and spent the last year building full-stack, automation, and data-pipeline
+projects on my own to stay sharp and grow.
 
- 🚀 I'm passionate about developing reliable and efficient software solutions that drive innovation and improve user experiences. I'm constantly learning and exploring new technologies to stay up to date with the latest industry trends.
+🔍 Actively looking for backend / full-stack roles.
 
-🌱 In my free time, I enjoy learning new technologies, learning about the new AI world and sharing my knowledge with friends and colleagues. I like to practice competetive programming on GeeksForGeeks from time-to-time. Have solved more than 250 problems on gfg platform.
+---
 
-📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/amritanshusingh1912/) or on my [email](amritanshu.singh.mat15@itbhu.ac.in) to discuss exciting projects or opportunities. 
+## Tech Stack
 
+**Backend** — Node.js, Express.js, GraphQL (Apollo), REST APIs, TypeScript  
+**Frontend** — Next.js, React, Tailwind CSS, Radix UI, SWR  
+**Databases** — PostgreSQL, Neo4j (CypherQL), Prisma, Sequelize, IndexedDB  
+**Cloud & DevOps** — AWS (Lambda, SQS, S3, EventBridge, CloudWatch), Docker  
+**Automation & Scraping** — Python, Playwright, Selenium, lxml, Telethon  
+**Other** — JWT/JWE, Jest/Supertest, Swagger, Chrome Extension APIs, C++
+
+---
+---
+
+## What I've been building lately
+
+**[Fluxion](https://github.com/Amritanshu1912/fluxion-ecommerce)** — A full e-commerce platform from scratch.
+Three services: REST API backend, consumer storefront, admin dashboard.
+TypeScript throughout. Express + Prisma + PostgreSQL on the backend,
+Next.js 15 on both frontends. JWT/JWE auth, RBAC, OAuth, analytics. Demo-ready.
+
+**[Amazon Scraping Suite](https://github.com/Amritanshu1912/xray-alt)** — Built four different scrapers for the same job:
+fast lxml, async Playwright, Selenium, and a hybrid that falls back automatically
+when it hits CAPTCHAs. Extracts 18+ fields per product. Proxy rotation,
+retry logic, Node.js integration. Went deeper than I expected on this one.
+
+**[CostingWizard](https://github.com/Amritanshu1912/CostingWizard)** — A manufacturing cost manager that runs entirely in the browser.
+No backend. All relational data — materials, recipes, suppliers, inventory —
+lives in IndexedDB. Wanted to see how far you could push client-side architecture.
+
+**[TeleForwarder](https://github.com/Amritanshu1912/tele_forwarder)** · 
+**[Playlist Pilot](https://github.com/Amritanshu1912/Spotify_Extension)** · 
+**[Reddit Chat Suite](https://github.com/Amritanshu1912/MassDeleteRedditChats)** — 
+Smaller tools built to solve real problems.
+
+---
+
+
+## Work Experience
+
+**Backend Developer** — GrouPot India Pvt. Ltd., Bengaluru *(Feb 2022 – Jan 2023)*  
+GraphQL APIs, Neo4j, PostgreSQL schema design, AWS notification pipelines — 400% performance improvement on the Dashboard service.
+
+---
+
+## Education
+
+**IDD (B.Tech + M.Tech), Mathematics & Computing** — IIT (BHU) Varanasi *(2016–2021)*
+
+---
+
+## A bit more about me
+
+- 🧩 250+ problems solved on GeeksForGeeks — I go back to it when I want to think differently
+- 📖 Constantly picking up new things; currently exploring the AI tooling space
+- 🎯 I like building things end-to-end, not just the backend slice
+
+---
+
+
+📫 amritanshu.singh.mat15@itbhu.ac.in · [LinkedIn](https://www.linkedin.com/in/amritanshusingh1912/)
